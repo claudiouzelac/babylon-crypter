@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stub0", "Stub0\Stub0.vcxproj", "{EF4DAB97-19C3-4DB4-B6D6-A2B28747A9F8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Babylon Crypter", "Babylon Crypter\Babylon Crypter.vcxproj", "{B0C2DE88-84C5-4319-ADDB-E6D3EB2BA635}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF4DAB97-19C3-4DB4-B6D6-A2B28747A9F8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EF4DAB97-19C3-4DB4-B6D6-A2B28747A9F8}.Debug|Win32.Build.0 = Debug|Win32
+		{EF4DAB97-19C3-4DB4-B6D6-A2B28747A9F8}.Debug|Win32.Deploy.0 = Debug|Win32
+		{EF4DAB97-19C3-4DB4-B6D6-A2B28747A9F8}.Release|Win32.ActiveCfg = Release|Win32
+		{EF4DAB97-19C3-4DB4-B6D6-A2B28747A9F8}.Release|Win32.Build.0 = Release|Win32
+		{EF4DAB97-19C3-4DB4-B6D6-A2B28747A9F8}.Release|Win32.Deploy.0 = Release|Win32
+		{B0C2DE88-84C5-4319-ADDB-E6D3EB2BA635}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B0C2DE88-84C5-4319-ADDB-E6D3EB2BA635}.Debug|Win32.Build.0 = Debug|Win32
+		{B0C2DE88-84C5-4319-ADDB-E6D3EB2BA635}.Debug|Win32.Deploy.0 = Debug|Win32
+		{B0C2DE88-84C5-4319-ADDB-E6D3EB2BA635}.Release|Win32.ActiveCfg = Release|Win32
+		{B0C2DE88-84C5-4319-ADDB-E6D3EB2BA635}.Release|Win32.Build.0 = Release|Win32
+		{B0C2DE88-84C5-4319-ADDB-E6D3EB2BA635}.Release|Win32.Deploy.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
